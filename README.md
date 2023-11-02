@@ -34,10 +34,3 @@ To run the project tasks, you need Python and Jupyter Notebook installed. Make s
 
 The project relies on various Python libraries, including SpaCy, SentiStrength, and more. You can find a list of dependencies in the Jupyter notebooks.
 
-## References
-
-The project tasks are motivated and guided by state-of-the-art methods and techniques from the NLP literature. Relevant citations are included throughout the code and can be further explored in the associated literature.
-
-Feel free to explore, contribute, or use this project as a reference for your own NLP analysis of political debates.
-
-Enjoy analyzing political discourse and extracting meaningful insights from the data!
