@@ -16,7 +16,7 @@ The project is organized into several tasks, each focusing on different aspects 
   - Identify key persons and organizations involved in shaping arguments using SpaCy named-entity recognition.
 
 - **Tasks 5 to 10**: Contained in another Jupyter notebook.
-  - Perform sentiment analysis using SentiStrength.
+  - Perform sentiment analysis using SentiStrength. Then use Pearson correlation coefficient to test correlation score and its p-value for each category.
   - Assess the relationship between thread and category titles using pre-trained word2vec models.
   - Analyze the coherence of discussion posts within threads using Empath.
   - Examine pro and con reasoning by identifying modal verbs and their context.
