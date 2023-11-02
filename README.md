@@ -32,5 +32,5 @@ To run the project tasks, you need Python and Jupyter Notebook installed. Make s
 
 ## Dependencies
 
-The project relies on various Python libraries, including SpaCy, SentiStrength, and more. You can find a list of dependencies in the Jupyter notebooks.
+The project relies on various Python libraries, including SpaCy, SentiStrength, and more. You can find a list of dependencies in the Jupyter notebooks and the requirements.txt file
 
